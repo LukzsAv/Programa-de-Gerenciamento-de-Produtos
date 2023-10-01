@@ -18,12 +18,6 @@ Para executar este programa, você precisará ter o Node.js instalado em sua má
 
 ## Uso
 
-Para iniciar o servidor, execute o seguinte comando:
-
-```bash
-npm start
-
-
 ## Exemplo de Uso
 
 exemplo de  lista com todos os produtos usando a API:
@@ -37,3 +31,10 @@ informações de um produto específico por ID:
 calculo do frete com base no CEP e estado de destino:
 
 ![Exemplo de Cálculo de Frete](https://github.com/LukzsAv/Programa-de-Gerenciamento-de-Produtos/blob/master/screenshots/frete.png)
+
+Para iniciar o servidor, execute o seguinte comando:
+
+```bash
+npm start
+
+
