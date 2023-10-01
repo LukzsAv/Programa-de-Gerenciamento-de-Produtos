@@ -28,12 +28,12 @@ npm start
 
 exemplo de  lista com todos os produtos usando a API:
 
-![Exemplo de Listagem de Produtos](screenshots/listProdutos.png)
+![Exemplo de Listagem de Produtos](https://github.com/LukzsAv/Programa-de-Gerenciamento-de-Produtos/blob/master/screenshots/listProdutos.png)
 
 informações de um produto específico por ID:
 
-![Exemplo de Consulta de Produto por ID](screenshots/ListId.png)
+![Exemplo de Consulta de Produto por ID](https://github.com/LukzsAv/Programa-de-Gerenciamento-de-Produtos/blob/master/screenshots/ListId.png)
 
 calculo do frete com base no CEP e estado de destino:
 
-![Exemplo de Cálculo de Frete](screenshots/frete.png)
+![Exemplo de Cálculo de Frete](https://github.com/LukzsAv/Programa-de-Gerenciamento-de-Produtos/blob/master/screenshots/frete.png)
